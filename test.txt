@@ -1,1 +1,6 @@
 김재윤
+
+git add .
+
+git commit -m "change"
+git pull
